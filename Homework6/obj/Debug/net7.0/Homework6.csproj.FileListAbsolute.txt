@@ -1,0 +1,15 @@
+/home/bulinadarya/Документы/Homework/Homework6/bin/Debug/net7.0/Homework6
+/home/bulinadarya/Документы/Homework/Homework6/bin/Debug/net7.0/Homework6.deps.json
+/home/bulinadarya/Документы/Homework/Homework6/bin/Debug/net7.0/Homework6.runtimeconfig.json
+/home/bulinadarya/Документы/Homework/Homework6/bin/Debug/net7.0/Homework6.dll
+/home/bulinadarya/Документы/Homework/Homework6/bin/Debug/net7.0/Homework6.pdb
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.csproj.AssemblyReference.cache
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.GeneratedMSBuildEditorConfig.editorconfig
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.AssemblyInfoInputs.cache
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.AssemblyInfo.cs
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.csproj.CoreCompileInputs.cache
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.dll
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/refint/Homework6.dll
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.pdb
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/Homework6.genruntimeconfig.cache
+/home/bulinadarya/Документы/Homework/Homework6/obj/Debug/net7.0/ref/Homework6.dll
